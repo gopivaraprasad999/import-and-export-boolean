@@ -12,3 +12,4 @@ Import the boolean value in the `importBoolean.js` file.
 # import-and-export-boolean
 # import-export-bool
 # import-export-bool
+# import-export-bool
